@@ -4,13 +4,13 @@
 /* Only for use as shadows as they wont work in older browsers */
 /*$color-optional: #a1d2eb !default; */
 /** ----------------------------------------------- Textures ----------------------------------------------- */
-/** ----------------------------------------------- Typography.  ------------------------------------------------ */
+/** ----------------------------------------------- Typography. ------------------------------------------------ */
 /** ----------------------------------------------- Grid Units (px)  We have a vertical rhythm that the grid is based off both x (=horizontal) and y (=vertical). All internal padding and margins are scaled to this and accounting for paragraphs ------------------------------------------------ */
 /** ----------------------------------------------- Application Logo (CMS Logo) Must be 24px x 24px ------------------------------------------------ */
 .cms .ss-ui-button { background-color: #e6e6e6; }
 .cms .ss-ui-button.ui-state-hover { background-color: #f3f3f3; }
-.cms .ss-ui-button.ss-ui-action-constructive { background-color: #1F9433; }
-.cms .ss-ui-button.ss-ui-action-constructive.ui-state-hover { background-color: #23a93a; }
+.cms .ss-ui-button.ss-ui-action-constructive { background-color: #3fa142; }
+.cms .ss-ui-button.ss-ui-action-constructive.ui-state-hover { background-color: #46b34a; }
 .cms .ss-ui-button.ss-gridfield-button-filter { background: #55a4d2 url(../../images/icons/filter-icons.png) no-repeat -14px 4px; }
 
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { background-image: none; }
